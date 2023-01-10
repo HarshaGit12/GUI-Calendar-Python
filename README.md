@@ -1,4 +1,4 @@
-# GUI-Calendar-Python
+# GUI-Calendar-using-Python
 ## Contains Python program to make a Python Calendar GUI application using Tkinter.
 ## The user will have to fill the desired year, and the calendar for that specific year will appear through the application
 # Modules used:
